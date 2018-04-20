@@ -7,10 +7,9 @@
  * Time: 17:52
  */
 public class MyJava {
-    int a;
-    int b;
-    public static void main(String[] args) {
-        System.out.println("aaaaaaaaa");
-        System.out.println("bbbbbbbbb");
+    int e;
+    int g;
+
+
     }
 }
